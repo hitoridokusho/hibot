@@ -2,18 +2,17 @@
   "name": "hibot",
   "version": "0.0.0",
   "description": "A hubot for hitoridokusho.",
-  "main": "index.js",
   "scripts": {
-    "start": "hubot -n hibot -r ./node_modules/hubot/src/scripts/"
+    "start": "hubot -n hibot -a typetalk -r ./node_modules/hubot/src/scripts/ -r ./src/scripts"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/hitoridokusho/hibot.git"
   },
   "keywords": [
+    "hibot",
     "hubot",
-    "typetalk",
-    "hibot"
+    "typetalk"
   ],
   "author": "bouzuya",
   "license": "MIT",
@@ -22,7 +21,8 @@
   },
   "homepage": "https://github.com/hitoridokusho/hibot",
   "dependencies": {
-    "hubot": "^2.7.5",
-    "coffee-script": "^1.7.1"
+    "coffee-script": "1.7.1",
+    "hubot": "2.7.5",
+    "hubot-typetalk": "0.0.2"
   }
 }
