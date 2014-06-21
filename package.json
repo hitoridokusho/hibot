@@ -1,0 +1,28 @@
+{
+  "name": "hibot",
+  "version": "0.0.0",
+  "description": "A hubot for hitoridokusho.",
+  "main": "index.js",
+  "scripts": {
+    "start": "hubot -n hibot -r ./node_modules/hubot/src/scripts/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hitoridokusho/hibot.git"
+  },
+  "keywords": [
+    "hubot",
+    "typetalk",
+    "hibot"
+  ],
+  "author": "bouzuya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hitoridokusho/hibot/issues"
+  },
+  "homepage": "https://github.com/hitoridokusho/hibot",
+  "dependencies": {
+    "hubot": "^2.7.5",
+    "coffee-script": "^1.7.1"
+  }
+}
