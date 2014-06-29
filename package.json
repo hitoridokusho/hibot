@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "A hubot for hitoridokusho.",
   "scripts": {
-    "start": "hubot -n hibot -a typetalk -r ./node_modules/hubot/src/scripts/"
+    "start": "hubot -n hibot -a lingr -r ./node_modules/hubot/src/scripts/"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/hitoridokusho/hibot",
   "dependencies": {
     "coffee-script": "1.7.1",
-    "hubot-typetalk": "0.0.2",
+    "hubot-lingr": "0.1.1",
     "hubot": "2.7.5",
     "oauth": "0.9.12",
     "q": "1.0.1",
