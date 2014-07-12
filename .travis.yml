@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "0.10"
+deploy:
+  provider: heroku
+  api_key:
+    secure: eF7qE5DjbKWyG1HuOaaYHBuItGCibvWBGYvWHd3Nn8vbmM60cU9kgSVUhFshfpvdb37UD4Ht/t1HOboQGLux9bzzLowpkYyBOrYB75GLn0FAol2779ASWywCIrulGfYjVtDmcoZxirSWFSNQzP3hxiYwwOvytkFTIcvSAjhcD20=
+  app:
+    master: hitoridokusho-hubot
