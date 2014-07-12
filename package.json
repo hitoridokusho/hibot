@@ -24,7 +24,7 @@
     "coffee-script": "1.7.1",
     "hubot-lingr": "0.1.1",
     "hubot-nonomulish": "git://github.com/bouzuya/hubot-nonomulish.git#0.1.0",
-    "hubot-url": "git://github.com/bouzuya/hubot-url",
+    "hubot-url": "git://github.com/bouzuya/hubot-url.git#0.5.0",
     "hubot": "2.7.5",
     "oauth": "0.9.12",
     "q": "1.0.1",
