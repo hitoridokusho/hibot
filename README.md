@@ -8,9 +8,14 @@ hibot は [ひとり読書会][hitoridokusho]のための [HUBOT][github/hubot] 
 
 ## 設定
 
-    $ # for adapter
+    $ # for hubot-lingr (adapter)
     $ export HUBOT_LINGR_BOT='hibot'
     $ export HUBOT_LINGR_SECRET='...'
+    $
+    $ # for hubot-sakagemc
+    $ export HUBOT_SAKAGEMC_ID='90569826@N04'
+    $ HUBOT_SAKAGEMC_FLICKR_API_KEY='...'
+    $ HUBOT_SAKAGEMC_FLICKR_SECRET='...'
 
 [設定の詳細は hubot-lingr を参照][miyagawa/hubot-lingr]
 
