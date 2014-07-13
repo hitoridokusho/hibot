@@ -1,5 +1,6 @@
 [
   "hubot-gengo",
+  "hubot-lgtm",
   "hubot-nonomulish",
   "hubot-sakagemc",
   "hubot-url"
