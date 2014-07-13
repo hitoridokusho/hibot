@@ -1,1 +1,6 @@
-["hubot-url", "hubot-nonomulish", "hubot-sakagemc"]
+[
+  "hubot-gengo",
+  "hubot-nonomulish",
+  "hubot-sakagemc",
+  "hubot-url"
+]
