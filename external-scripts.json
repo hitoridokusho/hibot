@@ -1,6 +1,7 @@
 [
   "hubot-gengo",
   "hubot-lgtm",
+  "hubot-merge-pr",
   "hubot-nonomulish",
   "hubot-retweet",
   "hubot-sakagemc",
