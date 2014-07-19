@@ -22,7 +22,7 @@
   "homepage": "https://github.com/hitoridokusho/hibot",
   "dependencies": {
     "coffee-script": "1.7.1",
-    "hubot-fav": "git://github.com/bouzuya/hubot-fav.git#0.1.0",
+    "hubot-fav": "git://github.com/bouzuya/hubot-fav.git#0.1.1",
     "hubot-gengo": "git://github.com/bouzuya/hubot-gengo.git#0.1.2",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm.git#0.1.0",
     "hubot-lingr": "0.1.1",
