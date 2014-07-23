@@ -11,5 +11,6 @@
   "hubot-retweet",
   "hubot-sakagemc",
   "hubot-tweet",
-  "hubot-url"
+  "hubot-url",
+  "hubot-watch-message-count"
 ]
