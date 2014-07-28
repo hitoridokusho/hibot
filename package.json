@@ -32,7 +32,7 @@
     "hubot-lingr": "0.1.1",
     "hubot-list-pr": "git://github.com/bouzuya/hubot-list-pr.git#0.1.1",
     "hubot-merge-pr": "git://github.com/bouzuya/hubot-merge-pr.git#0.2.1",
-    "hubot-mizuyari": "git://github.com/bouzuya/hubot-mizuyari.git#0.1.0",
+    "hubot-mizuyari": "git://github.com/bouzuya/hubot-mizuyari.git#0.1.1",
     "hubot-nonomulish": "git://github.com/bouzuya/hubot-nonomulish.git#0.1.0",
     "hubot-omikuji": "git://github.com/bouzuya/hubot-omikuji.git#0.1.0",
     "hubot-retweet": "git://github.com/bouzuya/hubot-retweet.git#0.1.0",
