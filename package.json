@@ -35,6 +35,7 @@
     "hubot-mizuyari": "git://github.com/bouzuya/hubot-mizuyari.git#0.1.1",
     "hubot-nonomulish": "git://github.com/bouzuya/hubot-nonomulish.git#0.1.0",
     "hubot-omikuji": "git://github.com/bouzuya/hubot-omikuji.git#0.1.0",
+    "hubot-randict": "git://github.com/bouzuya/hubot-randict.git#0.1.0",
     "hubot-retweet": "git://github.com/bouzuya/hubot-retweet.git#0.1.0",
     "hubot-sakagemc": "git://github.com/bouzuya/hubot-sakagemc.git#0.2.1",
     "hubot-scripts": "git://github.com/github/hubot-scripts.git",
