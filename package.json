@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "A hubot for hitoridokusho.",
   "scripts": {
-    "start": "hubot -n hibot -a lingr -r ./node_modules/hubot/src/scripts/"
+    "start": "hubot -n hibot -a shell -r ./node_modules/hubot/src/scripts/"
   },
   "repository": {
     "type": "git",
