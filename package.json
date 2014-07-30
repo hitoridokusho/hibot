@@ -24,6 +24,7 @@
     "coffee-script": "1.7.1",
     "hubot-auto-fav": "git://github.com/bouzuya/hubot-auto-fav.git#0.1.0",
     "hubot-auto-nonomulish": "git://github.com/bouzuya/hubot-auto-nonomulish.git#0.1.0",
+    "hubot-backlog-status": "git://github.com/bouzuya/hubot-backlog-status.git#0.1.0",
     "hubot-fact": "git://github.com/bouzuya/hubot-fact.git#0.1.1",
     "hubot-fav": "git://github.com/bouzuya/hubot-fav.git#0.1.1",
     "hubot-friday13th": "git://github.com/bouzuya/hubot-friday13th.git#0.2.0",

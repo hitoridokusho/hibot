@@ -18,6 +18,11 @@ hibot は [ひとり読書会][hitoridokusho]のための [HUBOT][github/hubot] 
     $ export HUBOT_AUTO_FAV_ACCESS_TOKEN='twitter access token'
     $ export HUBOT_AUTO_FAV_ACCESS_TOKEN_SECRET='twitter access token secret'
 
+    $ # for hubot-backlog-status
+    $ export HUBOT_BACKLOG_STATUS_USE_SLACK='1'
+    $ export HUBOT_BACKLOG_STATUS_SPACE_ID='...'
+    $ export HUBOT_BACKLOG_STATUS_API_KEY='...'
+
     $ # for hubot-fav
     $ export HUBOT_FAV_API_KEY='twitter api key'
     $ export HUBOT_FAV_API_SECRET='twitter api secret'
