@@ -1,21 +1,3 @@
 [
-  "hubot-auto-fav",
-  "hubot-auto-nonomulish",
-  "hubot-fact",
-  "hubot-fav",
-  "hubot-friday13th",
-  "hubot-gengo",
-  "hubot-hello",
-  "hubot-lgtm",
-  "hubot-list-pr",
-  "hubot-merge-pr",
-  "hubot-mizuyari",
-  "hubot-nonomulish",
-  "hubot-omikuji",
-  "hubot-randict",
-  "hubot-retweet",
-  "hubot-sakagemc",
-  "hubot-tweet",
-  "hubot-url",
-  "hubot-watch-message-count"
+  "hubot-list-pr"
 ]
