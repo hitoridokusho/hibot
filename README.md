@@ -28,6 +28,10 @@ hibot は [ひとり読書会][hitoridokusho]のための [HUBOT][github/hubot] 
     $ export HUBOT_LINGR_BOT='hibot'
     $ export HUBOT_LINGR_SECRET='...'
 
+    $ # for hubot-list-pr
+    $ export HUBOT_LIST_PR_DEFAULT_USERNAME='...'
+    $ export HUBOT_LIST_PR_TOKEN='...'
+
     $ # for hubot-merge-pr
     $ export HUBOT_MERGE_PR_DEFAULT_USERNAME='...'
     $ export HUBOT_MERGE_PR_TIMEOUT='30000'
