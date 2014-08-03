@@ -62,6 +62,12 @@ hibot は [ひとり読書会][hitoridokusho]のための [HUBOT][github/hubot] 
     $ export HUBOT_TWEET_ACCESS_TOKEN='twitter access token'
     $ export HUBOT_TWEET_ACCESS_TOKEN_SECRET='twitter access token secret'
 
+    $ # for hubot-script-hoshii
+    $ export HUBOT_SCRIPT_HOSHII_USER='hitoridokusho'
+    $ export HUBOT_SCRIPT_HOSHII_REPO='hibot'
+    $ export HUBOT_SCRIPT_HOSHII_TOKEN='...github token...'
+
+
 [アダプター設定の詳細は hubot-lingr を参照][miyagawa/hubot-lingr]
 
 ## バッジ
