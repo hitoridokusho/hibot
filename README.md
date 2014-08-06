@@ -23,6 +23,10 @@ hibot は [ひとり読書会][hitoridokusho]のための [HUBOT][github/hubot] 
     $ export HUBOT_BACKLOG_STATUS_SPACE_ID='...'
     $ export HUBOT_BACKLOG_STATUS_API_KEY='...'
 
+    $ # for hubot-docomo-dialogue
+    $ HUBOT_DOCOMO_DIALOGUE_P='0.3'
+    $ HUBOT_DOCOMO_DIALOGUE_API_KEY='docomo api key'
+
     $ # for hubot-fav
     $ export HUBOT_FAV_API_KEY='twitter api key'
     $ export HUBOT_FAV_API_SECRET='twitter api secret'
