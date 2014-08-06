@@ -42,6 +42,7 @@
     "hubot-sakagemc": "git://github.com/bouzuya/hubot-sakagemc.git#0.2.1",
     "hubot-scripts": "git://github.com/github/hubot-scripts.git",
     "hubot-script-hoshii": "git://github.com/bouzuya/hubot-script-hoshii.git#0.1.0",
+    "hubot-twitter-favs": "git://github.com/bouzuya/hubot-twitter-favs.git#0.1.0",
     "hubot-tweet": "git://github.com/bouzuya/hubot-tweet.git#0.1.0",
     "hubot-url": "git://github.com/bouzuya/hubot-url.git#0.5.0",
     "hubot-watch-message-count": "git://github.com/bouzuya/hubot-watch-message-count.git#0.1.0",

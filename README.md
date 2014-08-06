@@ -56,17 +56,23 @@ hibot は [ひとり読書会][hitoridokusho]のための [HUBOT][github/hubot] 
     $ export HUBOT_SAKAGEMC_FLICKR_API_KEY='...'
     $ export HUBOT_SAKAGEMC_FLICKR_SECRET='...'
 
+    $ # for hubot-script-hoshii
+    $ export HUBOT_SCRIPT_HOSHII_USER='hitoridokusho'
+    $ export HUBOT_SCRIPT_HOSHII_REPO='hibot'
+    $ export HUBOT_SCRIPT_HOSHII_TOKEN='...github token...'
+
     $ # for hubot-tweet
     $ export HUBOT_TWEET_API_KEY='twitter api key'
     $ export HUBOT_TWEET_API_SECRET='twitter api secret'
     $ export HUBOT_TWEET_ACCESS_TOKEN='twitter access token'
     $ export HUBOT_TWEET_ACCESS_TOKEN_SECRET='twitter access token secret'
 
-    $ # for hubot-script-hoshii
-    $ export HUBOT_SCRIPT_HOSHII_USER='hitoridokusho'
-    $ export HUBOT_SCRIPT_HOSHII_REPO='hibot'
-    $ export HUBOT_SCRIPT_HOSHII_TOKEN='...github token...'
-
+    $ # for hubot-twitter-favs
+    $ export HUBOT_TWITTER_FAVS_API_KEY='twitter api key'
+    $ export HUBOT_TWITTER_FAVS_API_SECRET='twitter api secret'
+    $ export HUBOT_TWITTER_FAVS_ACCESS_TOKEN='twitter access token'
+    $ export HUBOT_TWITTER_FAVS_ACCESS_TOKEN_SECRET='twitter access token secret'
+    $ export HUBOT_TWITTER_FAVS_SHOW_DETAIL='1'
 
 [アダプター設定の詳細は hubot-lingr を参照][miyagawa/hubot-lingr]
 

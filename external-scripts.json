@@ -17,6 +17,7 @@
   "hubot-retweet",
   "hubot-sakagemc",
   "hubot-script-hoshii",
+  "hubot-twitter-favs",
   "hubot-tweet",
   "hubot-url",
   "hubot-watch-message-count"
