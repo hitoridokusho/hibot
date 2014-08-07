@@ -1,6 +1,7 @@
 [
   "hubot-auto-fav",
   "hubot-auto-nonomulish",
+  "hubot-backlog-activity",
   "hubot-backlog-status",
   "hubot-docomo-dialogue",
   "hubot-fact",

@@ -23,6 +23,13 @@ hibot は [ひとり読書会][hitoridokusho]のための [HUBOT][github/hubot] 
     $ export HUBOT_BACKLOG_STATUS_SPACE_ID='...'
     $ export HUBOT_BACKLOG_STATUS_API_KEY='...'
 
+    $ # for hubot-backlog-activity
+    $ export HUBOT_BACKLOG_ACTIVITY_SPACE_ID='...'
+    $ export HUBOT_BACKLOG_ACTIVITY_API_KEY='...'
+    $ export HUBOT_BACKLOG_ACTIVITY_MAPPINGS='{"BOUZUYA": "hitoridokusho"}'
+    $ export HUBOT_BACKLOG_ACTIVITY_INTERVAL='30000'
+    $ export HUBOT_BACKLOG_ACTIVITY_USE_SLACK='1'
+
     $ # for hubot-docomo-dialogue
     $ HUBOT_DOCOMO_DIALOGUE_P='0.3'
     $ HUBOT_DOCOMO_DIALOGUE_API_KEY='docomo api key'
