@@ -62,11 +62,6 @@ hibot は [ひとり読書会][hitoridokusho]のための [HUBOT][github/hubot] 
     $ export HUBOT_RETWEET_ACCESS_TOKEN='twitter access token'
     $ export HUBOT_RETWEET_ACCESS_TOKEN_SECRET='twitter access token secret'
 
-    $ # for hubot-sakagemc
-    $ export HUBOT_SAKAGEMC_ID='90569826@N04'
-    $ export HUBOT_SAKAGEMC_FLICKR_API_KEY='...'
-    $ export HUBOT_SAKAGEMC_FLICKR_SECRET='...'
-
     $ # for hubot-script-hoshii
     $ export HUBOT_SCRIPT_HOSHII_USER='hitoridokusho'
     $ export HUBOT_SCRIPT_HOSHII_REPO='hibot'
