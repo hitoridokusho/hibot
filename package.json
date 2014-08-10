@@ -33,6 +33,7 @@
     "hubot-friday13th": "git://github.com/bouzuya/hubot-friday13th.git#0.2.0",
     "hubot-gengo": "git://github.com/bouzuya/hubot-gengo.git#0.1.2",
     "hubot-hello": "git://github.com/bouzuya/hubot-hello.git#0.1.0",
+    "hubot-keion": "git://github.com/bouzuya/hubot-keion.git#0.1.0",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm.git#0.1.0",
     "hubot-lingr": "0.1.1",
     "hubot-list-pr": "git://github.com/bouzuya/hubot-list-pr.git#0.1.3",
