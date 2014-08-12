@@ -5,6 +5,7 @@
   "hubot-backlog-status",
   "hubot-docomo-dialogue",
   "hubot-doorkeeper",
+  "hubot-doorkeeper-notifier",
   "hubot-fact",
   "hubot-fav",
   "hubot-friday13th",

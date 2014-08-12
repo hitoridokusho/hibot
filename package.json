@@ -28,6 +28,7 @@
     "hubot-backlog-status": "git://github.com/bouzuya/hubot-backlog-status.git#0.1.0",
     "hubot-docomo-dialogue": "git://github.com/bouzuya/hubot-docomo-dialogue.git#0.1.0",
     "hubot-doorkeeper": "git://github.com/bouzuya/hubot-doorkeeper.git#0.1.0",
+    "hubot-doorkeeper-notifier": "git://github.com/bouzuya/hubot-doorkeeper-notifier.git#0.1.0",
     "hubot-fact": "git://github.com/bouzuya/hubot-fact.git#0.1.1",
     "hubot-fav": "git://github.com/bouzuya/hubot-fav.git#0.1.1",
     "hubot-friday13th": "git://github.com/bouzuya/hubot-friday13th.git#0.2.0",
