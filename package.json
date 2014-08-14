@@ -26,6 +26,7 @@
     "hubot-auto-nonomulish": "git://github.com/bouzuya/hubot-auto-nonomulish.git#0.1.0",
     "hubot-backlog-activity": "git://github.com/bouzuya/hubot-backlog-activity.git#0.1.0",
     "hubot-backlog-status": "git://github.com/bouzuya/hubot-backlog-status.git#0.1.0",
+    "hubot-base64": "git://github.com/bouzuya/hubot-base64.git#0.1.0",
     "hubot-color": "git://github.com/bouzuya/hubot-color.git#0.1.0",
     "hubot-docomo-dialogue": "git://github.com/bouzuya/hubot-docomo-dialogue.git#0.1.0",
     "hubot-doorkeeper": "git://github.com/bouzuya/hubot-doorkeeper.git#0.1.0",

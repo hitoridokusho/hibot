@@ -3,6 +3,7 @@
   "hubot-auto-nonomulish",
   "hubot-backlog-activity",
   "hubot-backlog-status",
+  "hubot-base64",
   "hubot-color",
   "hubot-docomo-dialogue",
   "hubot-doorkeeper",
