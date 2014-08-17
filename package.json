@@ -23,7 +23,7 @@
   "dependencies": {
     "coffee-script": "1.7.1",
     "hubot-auto-fav": "git://github.com/bouzuya/hubot-auto-fav.git#1.0.0",
-    "hubot-auto-nomulish": "git://github.com/bouzuya/hubot-nonomulish.git#1.0.0",
+    "hubot-auto-nomulish": "git://github.com/bouzuya/hubot-auto-nomulish.git#1.0.0",
     "hubot-auto-nonomulish": "git://github.com/bouzuya/hubot-auto-nonomulish.git#1.0.0",
     "hubot-backlog-activity": "git://github.com/bouzuya/hubot-backlog-activity.git#1.0.0",
     "hubot-backlog-issue": "git://github.com/bouzuya/hubot-backlog-issue.git#1.0.0",
