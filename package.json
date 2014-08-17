@@ -31,6 +31,7 @@
     "hubot-backlog-status": "git://github.com/bouzuya/hubot-backlog-status.git#1.0.0",
     "hubot-backlog-stock": "git://github.com/bouzuya/hubot-backlog-stock.git#1.0.0",
     "hubot-base64": "git://github.com/bouzuya/hubot-base64.git#1.0.0",
+    "hubot-blog-bouzuya-net": "git://github.com/bouzuya/hubot-blog-bouzuya-net.git#1.0.0",
     "hubot-color": "git://github.com/bouzuya/hubot-color.git#1.0.0",
     "hubot-docomo-dialogue": "git://github.com/bouzuya/hubot-docomo-dialogue.git#1.0.0",
     "hubot-doorkeeper-notifier": "git://github.com/bouzuya/hubot-doorkeeper-notifier.git#1.0.0",
